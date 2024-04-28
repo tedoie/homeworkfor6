@@ -1,0 +1,151 @@
+body{background-color: #F1F1F1;
+       width: 1440px;
+       height: 1793px;
+       flex-shrink: 0;}
+nav{display: inline-block;}
+header{margin-left: 137px;
+       margin-top: 21px;
+       position: fixed;
+       height: 53px;
+       z-index: 100;
+       width: 100%;
+       top: 0;
+       background-color: #F1F1F1;
+       padding: top 24px; ;}
+.headerthing{color: #000;
+       font-family: "Roboto";
+       font-size: 11px;
+       font-style: normal;
+       font-weight: 700;
+       line-height: normal;
+       display: inline-block;
+       margin-left: 35px;
+       vertical-align: middle;}
+.img1{vertical-align: middle;
+      margin-left: 29px;}
+.container{width: 1167px;
+           margin: 76px auto;
+           z-index: 1;}
+.cardedbox{width: 1166px;
+           height: 412px;
+       margin-bottom: 57px;} 
+.topic{color: #000;
+       font-family: "Roboto";
+       font-size: 24px;
+       font-style: normal;
+       font-weight: 700;
+       line-height: normal;
+       margin-bottom: 27px;}
+.card{display: inline-block;
+      width: 362px;
+      height: 354px;
+      display: inline-block;
+      margin-right: 35px;}
+.wrapper{position: relative;}
+.imgthing{color: #FFF;
+       font-family: Roboto;
+       font-size: 20px;
+       font-style: normal;
+       font-weight: 700;
+       line-height: normal;
+       display: inline-block;
+       position: absolute;
+       top: 31px;
+       left: 41px;
+       z-index: 2;}
+.cardbelow{width: 362px;
+       height: 171px;
+       background: #FFF;
+}
+.p1{width: 236px;
+    height: 36px;
+    line-height: 20px;
+    color: #8A8787;
+font-family: "Roboto";
+font-size: 10px;
+font-style: normal;
+font-weight: 700;
+padding-top: 68px;
+padding-left: 37px;
+padding-bottom: 11px;}
+.img2{padding-left: 40px;
+      padding-right: 11px;
+      vertical-align: middle;}
+.time{color: #8A8787;
+       font-family: Roboto;
+       font-size: 10px;
+       font-style: normal;
+       font-weight: 700;
+       line-height: normal;
+       display: inline-block;
+       vertical-align: middle;}   
+.imgpack{width: 1165px;
+         height: 960px;
+         margin-bottom: 36px;}     
+.column1{width: 758px;
+       height: 902px;
+       display: inline-block;
+}       
+.shit{position: relative;
+       padding-bottom: 42px;} 
+.imgthing123{color:#FFF;
+       font-family: "Roboto";
+       font-size: 20px;
+       font-style: normal;
+       font-weight: 700;
+       line-height: normal;
+       top: 50%;
+       left: 50%;
+       transform: translate(-50%,-50%);
+       z-index: 2;
+       position: absolute;
+     }
+.column2{height: 902px;
+         margin-left: 25px; 
+       display: inline-block;
+       width: 362px;
+vertical-align: top;
+}      
+.imgblabla{padding-bottom: 98px;} 
+footer{width: 1440px;
+       height: 201px;
+       background: #243043;
+        padding-top: 59px;
+       padding-left: 137px;}  
+.column01{width: 54px;
+          display: inline-block;
+          margin-right: 75px;color: #818687;
+
+          font-family: "Roboto";
+          font-size: 12px;
+          font-style: normal;
+          font-weight: 700;
+          line-height: normal;}
+.column02{width: 51px;
+          display: inline-block;
+          margin-right: 100px; color: #818687;
+
+          font-family: "Roboto";
+          font-size: 12px;
+          font-style: normal;
+          font-weight: 700;
+          line-height: normal;}
+.column03{width: 70px;
+          display: inline-block;color: #818687;
+
+          font-family: "Roboto";
+          font-size: 12px;
+          font-style: normal;
+          font-weight: 700;
+          line-height: normal;}       
+.p3{color: #FFF;
+       font-family: Roboto;
+       font-size: 12px;
+       font-style: normal;
+       font-weight: 400;
+       line-height: normal;
+      margin-left: 112px;
+     display: inline-block; 
+    vertical-align: top;}
+.img9{margin-left: 416px;
+      vertical-align: top;}    
